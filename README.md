@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jufri Nurharyanto</h1>
-<img align="center" alt "mobile-developer" width=100% src="https://app.lottiefiles.com/animation/23e76cac-58b7-494d-afe5-c2dc62809d2b?channel=web&source=public-animation&panel=comments">
+<img align="center" alt "mobile-developer" width=100% src="src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317"">
 <h3 align="justify>A passionate mobile developer from Indonesia</h3>
 
 - 🔭 I’m currently working on **MK-P**
